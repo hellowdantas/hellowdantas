@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hellowdantas
-- 👀 I’m interested in Python, SQL, Java, data analisys, coding.
+- 👀 I’m interested in Python, SQL, Java, C++
 - 🌱 I’m currently learning Python
 
 
